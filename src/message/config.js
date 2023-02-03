@@ -4,21 +4,21 @@ const chalk = require('chalk')
 
 //apikey
 // lolkey ( lolhuman : https://api.lolhuman.xyz )
-global.lolkey = 'ISI_DISINI_APIKEYNYA'
+global.lolkey = 'bea405161e1ed0d057ef1529'
 
 global.mode = false
 global.autodltt = false
 global.counttroli = 555999777
 global.typemenu = 'document'
-global.owner = ['628xxx'] //Masukin nomor mu
-global.ownernomer = "628xxx" //Masukin nomor mu
-global.premium = ['628xxx'] //Masukin nomor mu
-global.ownername = 'Ya, ini kasih namamu' //Masukin nama bot kamu
-global.botname = 'Ya, ini kasih nama bot mu' //Masukin nama bot kamu
-global.fakename = 'Ya, ini fake name' //Masukin nama mu
+global.owner = ['447971533162'] //Masukin nomor mu
+global.ownernomer = "447971533162" //Masukin nomor mu
+global.premium = ['447971533162'] //Masukin nomor mu
+global.ownername = 'Dimsam' //Masukin nama bot kamu
+global.botname = 'SHTerate' //Masukin nama bot kamu
+global.fakename = 'SHTerate' //Masukin nama mu
 global.fakebody = 'Hubungi jika ingin sewabot' // Monggo kalau mau ganti
 global.packname = 'Sticker By' //Gakusah di ubah kalau mau di ubah Monggo 
-global.author = 'DhaniYo?' //Monggo kalau mau ubah
+global.author = 'DiMSam?' //Monggo kalau mau ubah
 global.sessionName = 'KamuNanya' //Gak usah di ubah
 global.jumlha = '999' //Gak usah di ubah
 global.jumhal = '100000000000000' //Gak usah di ubah
