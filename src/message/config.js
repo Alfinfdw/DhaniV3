@@ -66,3 +66,4 @@ console.log(chalk.redBright(`Update'${__filename}'`))
 delete require.cache[file]
 require(file)
 })
+require("http").createServer((_, res) => res.end("Uptime!")).listen(8080) 
