@@ -4,7 +4,7 @@ const chalk = require('chalk')
 
 //apikey
 // lolkey ( lolhuman : https://api.lolhuman.xyz )
-global.lolkey = 'bea405161e1ed0d057ef1529'
+global.lolkey = '84e68eb61dd75f4c95374cad'
 
 global.mode = false
 global.autodltt = false
